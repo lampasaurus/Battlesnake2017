@@ -1,5 +1,15 @@
 # battlesnake-python
 
+TODO:
+1 Read the board into an understandable/viewable matrix
+2 Create a basic pathfinding function
+3 Create a function to set target squares
+	Include food, snakes, walls, snake heads/tail location
+4 Discuss behaviours/strategies
+5 Implement behaviours/strategies
+6 Taunts, Skins, Name, etc
+
+
 A simple [BattleSnake AI](http://battlesnake.io) written in Python. 
 
 Visit [battlesnake.io/readme](http://battlesnake.io/readme) for API documentation and instructions for running your AI.
